@@ -3,6 +3,12 @@
 This app uses our trained YOLO26n model to detect and label traffic
 signs in uploaded images. The interface uses Ultralytics and Streamlit.
 
+## Application Link
+
+[Open the Traffic Sign Detection App](https://csse416-traffic-sign-project.streamlit.app)
+
+Select **image**, select **all classes**, upload an image, and click **Start**.
+
 ## Files
 
 - `app.py`: Starts the app and loads our model.
